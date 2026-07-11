@@ -80,6 +80,7 @@ Develop an Annual Operating Plan (AOP) for FY26 that enables management to:
 
 ## Dashboard Preview
 
+![NimbusDesk Dashboard](Dashboard.png)
 ---
 
 ## Author
